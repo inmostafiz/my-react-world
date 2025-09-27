@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in...",
+    "customer": "John Smith",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Failed - Card Declined",
+    "description": "Customer attempted to pay...",
+    "customer": "Sarah Johnson",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 1003,
+    "title": "Account Recovery - Email Not Received",
+    "description": "Customer is not receiving account recovery emails...",
+    "customer": "Michael Brown",
+    "priority": "HIGH",
+    "status": "In-Progress",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 1004,
+    "title": "Account Recovery - Email Not Received",
+    "description": "Customer is not receiving account recovery emails...",
+    "customer": "Michael Brown",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 1005,
+    "title": "Account Recovery - Email Not Received",
+    "description": "Customer is not receiving account recovery emails...",
+    "customer": "Michael Brown",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 1006,
+    "title": "Account Recovery - Email Not Received",
+    "description": "Customer is not receiving account recovery emails...",
+    "customer": "Michael Brown",
+    "priority": "HIGH",
+    "status": "In-Progress",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 1007,
+    "title": "Account Recovery - Email Not Received",
+    "description": "Customer is not receiving account recovery emails...",
+    "customer": "Michael Brown",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 1008,
+    "title": "Account Recovery - Email Not Received",
+    "description": "Customer is not receiving account recovery emails...",
+    "customer": "Michael Brown",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  }
+  
+]
